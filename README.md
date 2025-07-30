@@ -1,4 +1,4 @@
-# India-Shark-Tank-Season-1-Project
+# Shark-Tank-India-Season-1-Project
 Using Python, Excel, Matplotlib, Seaborn libraries
 
 Problem Statement and Project Background
